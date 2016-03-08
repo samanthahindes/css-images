@@ -1,4 +1,8 @@
 /*your custom CSS here*/
 heading{
-  background-img: url("img/heading.jpg");
+  background-image: url("img/heading.jpg");
+}
+
+body{
+  background-image: url ("img/metal.jpg");
 }
