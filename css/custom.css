@@ -13,17 +13,9 @@
 
 body{
   background-image: url(../img/metal.jpg);
- 
 }
 
 img{
   width: 100%;
 }
 
-.box{
-  padding: 10px 10px;
-}
-
-body{
-  padding-top: 50px;
-}
