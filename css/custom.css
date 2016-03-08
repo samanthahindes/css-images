@@ -3,5 +3,10 @@
   background-image: url(../img/heading.jpg);
   height: 400px;
   width: 100%;
+  background-repeat: no-repeat;
+}
+
+body{
+  background-image: url(../img/metal.jpg);
 }
 
