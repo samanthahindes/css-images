@@ -5,6 +5,9 @@
   width: 100%;
   background-repeat: no-repeat;
   background-position: center top;
+  font-family: Arial, Verdana, sans-seriff;
+  font-size: 200%;
+  color: white;
 }
 
 body{
