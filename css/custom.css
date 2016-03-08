@@ -4,9 +4,11 @@
   height: 400px;
   width: 100%;
   background-repeat: no-repeat;
+  background-position: center top;
 }
 
 body{
   background-image: url(../img/metal.jpg);
+ 
 }
 
