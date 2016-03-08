@@ -21,7 +21,11 @@ h1{
 
 body{
   background-image: url(../img/metal.jpg);
+  background-repeat: no-repeat;
+  background-position: center 400px;
+  background-color: #999;
 }
+
 
 img{
   width: 100%;
